@@ -1,4 +1,4 @@
-Summary:	A colorfull all-in-one theme that uses clearlooks and pixbuf engine.
+Summary:	A colorfull all-in-one theme that uses clearlooks and pixbuf engine
 Name:		gtk2-theme-ColorBit
 Version:	1.0
 Release:	1
